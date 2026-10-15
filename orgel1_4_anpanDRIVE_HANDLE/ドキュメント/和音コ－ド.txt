@@ -1,0 +1,101 @@
+;
+;ﾊﾟｰﾄ1音高ﾃｰﾌﾞﾙ
+;
+	on_mac	2475	;1=ｼ
+	on_mac	2640	;2=ﾄﾞ
+	on_mac	2805	;3=ﾄﾞ#
+	on_mac	2970	;4=ﾚ
+	on_mac	3168	;5=ﾚ#
+	on_mac	3300	;6=ﾐ
+	on_mac	3520	;7=ﾌｧ
+	on_mac	3740	;8=ﾌｧ#
+	on_mac	3960	;9=ｿ
+	on_mac	4224	;10=ｿ#
+	on_mac	4400	;11=ﾗ
+	on_mac	4752	;12=ﾗ#
+	on_mac	4950	;13=ｼ
+
+;
+;音価ﾃｰﾌﾞﾙ(全ﾊﾟｰﾄ共通)
+;
+	cho_mac	24	;1=8分音符
+	cho_mac	48	;2=4分音符
+	cho_mac	72	;3=4.分音符
+	cho_mac	96	;4=2分音符
+	cho_mac	144	;5=2.分音符
+	cho_mac	192	;6=全音符
+	cho_mac	16	;7=4分3連符
+
+パート１
+
+	;C(ﾄﾞﾐｿ)
+	onp_mac	1,2
+	onp_mac	1,9
+	onp_mac	1,6
+	onp_mac	1,9
+
+	;C7(ﾄﾞﾐｿｼb)
+	onp_mac	1,2
+	onp_mac	1,12
+	onp_mac	1,9
+	onp_mac	1,6
+
+	;Cdim7(ﾄﾞﾐbｿb)
+	onp_mac	1,2
+	onp_mac	1,8
+	onp_mac	1,5
+	onp_mac	1,8
+
+	;G(ｼﾚｿ)
+	onp_mac	1,1
+	onp_mac	1,9
+	onp_mac	1,4
+	onp_mac	1,9
+
+	;G7(ｼﾚﾌｧ)
+	onp_mac	1,1
+	onp_mac	1,7
+	onp_mac	1,4
+	onp_mac	1,7
+
+	;Dm(ﾚﾌｧﾗ)
+	onp_mac	1,4
+	onp_mac	1,11
+	onp_mac	1,7
+	onp_mac	1,11
+
+	;D(ﾚﾌｧ#ﾗ)
+	onp_mac	1,4
+	onp_mac	1,11
+	onp_mac	1,8
+	onp_mac	1,11
+
+	;Em(ﾐｿｼ)
+	onp_mac	1,6
+	onp_mac	1,13
+	onp_mac	1,9
+	onp_mac	1,13
+
+	;F(ﾄﾞﾌｧﾗ)
+	onp_mac	1,2
+	onp_mac	1,11
+	onp_mac	1,7
+	onp_mac	1,11
+
+	;FonG(ﾄﾞｿﾗ)
+	onp_mac	1,2
+	onp_mac	1,11
+	onp_mac	1,9
+	onp_mac	1,11
+
+	;Am(ﾄﾞﾐﾗ)
+	onp_mac	1,2
+	onp_mac	1,11
+	onp_mac	1,6
+	onp_mac	1,11
+
+	;A(ﾄﾞ#ﾐﾗ)
+	onp_mac	1,3
+	onp_mac	1,11
+	onp_mac	1,6
+	onp_mac	1,11
