@@ -4,7 +4,8 @@
 おもちゃの修理やカスタマイズ、電子工作のベースとしてご活用ください。
 外部メモリを使わない音声再生の実装を原点とし、開発者へのリスペクトを込めて公開されています。
 <p align="center">
-<img width="45%" alt="260319_Driver (1)" src="https://github.com/user-attachments/assets/12a9d924-2967-4b76-b3e0-3d229ca70d1b" />
+<img width="30%" alt="260319_Driver (1)" src="https://github.com/user-attachments/assets/12a9d924-2967-4b76-b3e0-3d229ca70d1b" />
+<img width="30%" alt="260330_PY_DRIVE_test (3)" src="https://github.com/user-attachments/assets/943cbdd8-c980-472c-80b5-329d32264566" />
 </p>
 
 ---
