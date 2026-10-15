@@ -1,0 +1,25 @@
+BTL equ 3 
+PWM_STEP equ 999 
+PWM_DB_CMP equ 0x10 
+PWM_DB_BRG equ 10 
+OUT_BUF_N equ 50 
+SPI_BUF_N equ 8 
+PWM_PR equ 21 
+SONG_PS equ 2 
+KOYUU_PR equ 50 
+VOICEN0_VOL equ 80 
+VOICEN1_VOL equ 80 
+VOICEN2_VOL equ 80 
+VOICEI_VOL equ 100 
+VOICEC_VOL equ 100 
+VOICES0_VOL equ 100 
+VOICES1_VOL equ 100 
+VOICES2_VOL equ 100 
+ORGEL_VOL equ 80 
+VOICE_N equ 3 
+VOICE_I equ 0 
+VOICE_C equ 0 
+VOICE_S equ 0 
+PART_N equ 4 
+KB_N equ 0 
+ end 

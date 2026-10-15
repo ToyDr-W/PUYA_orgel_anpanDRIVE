@@ -1,0 +1,8 @@
+--cpu Cortex-M0+
+".\objects\main.o"
+".\objects\song_idx.o"
+".\objects\startup_py32f002ax5_pa1.o"
+--strict --scatter ".\Objects\PY32F002.sct"
+--summary_stderr --info summarysizes --map --load_addr_map_info --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list ".\Listings\PY32F002.map" -o .\Objects\PY32F002.axf

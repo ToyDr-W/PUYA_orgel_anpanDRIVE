@@ -1,0 +1,27 @@
+Dependencies for Project 'PY32F002', Target 'Target_1': (DO NOT MODIFY !)
+CompilerVersion: 6220000::V6.22::ARMCLANG
+F (.\main.c)(0x69CE4878)(-xc -std=c99 --target=arm-arm-none-eabi -mcpu=cortex-m0plus -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-gdwarf-4 -O1 -ffunction-sections -Wno-packed -Wno-missing-variable-declarations -Wno-missing-prototypes -Wno-missing-noreturn -Wno-sign-conversion -Wno-nonportable-include-path -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -Wno-reserved-identifier -I ../Include-IC:/Users/ooizumis/AppData/Local/Arm/Packs/Puya/PY32F0xx_DFP/1.2.2/Drivers/CMSIS/Device/PY32F0xx/Include-IC:/Users/ooizumis/AppData/Local/Arm/Packs/Puya/PY32F0xx_DFP/1.2.2/Drivers/CMSIS/Device/Puya/PY32F0xx/Include-D__UVISION_VERSION="541"-o ./objects/main.o -MMD)
+I (py32f0xx.h)(0x682F0218)
+I (py32f002ax5.h)(0x6357293E)
+I (..\Include\core_cm0plus.h)(0x664BCA78)
+I (C:\Users\ooizumis\AppData\Local\Arm\Packs\Puya\PY32F0xx_DFP\1.2.2\Drivers\CMSIS\Device\PY32F0xx\Include\system_py32f0xx.h)(0x68307B3F)
+I (orgel_cnf.h)(0x69D60B5D)
+I (..\orgel.h)(0x6966283B)
+I (..\voice_ENG_START.c)(0x6948F76A)
+I (..\Include\..\voice_ENGINE\ENG_START.c)(0x6948F5F3)
+I (..\voice_ENG_ANPAN.c)(0x6948F74E)
+I (..\Include\..\voice_ENGINE\ENG_ANPAN.c)(0x6948F5F3)
+I (..\voice_ENG_IDLE.c)(0x6948F75C)
+I (..\Include\..\voice_ENGINE\ENG_IDLE.c)(0x6948F5F3)
+I (..\voice_WINKER.c)(0x6949C5DC)
+I (..\Include\..\voice_WINKER\WINKER.c)(0x6949C522)
+I (..\voice_BOKU.c)(0x6949C156)
+I (..\Include\..\voice_BOKU\BOKU.c)(0x6949C0E0)
+I (..\voice_ISSHONI.c)(0x6949CA0E)
+I (..\Include\..\voice_ISSHONI\ISSHONI.c)(0x6949C9D6)
+I (..\dev_F002A_16.c)(0x696F89B6)
+I (..\common.c)(0x691E575B)
+I (..\orgel.c)(0x69662837)
+I (..\apl_SW-DRIVE.c)(0x69D60B51)
+F (.\song_idx.s)(0x694B3936)(--target=arm-arm-none-eabi -mcpu=cortex-m0plus -masm=auto  -Wa,armasm,--diag_suppress=A1950W -c-gdwarf-4-IC:/Users/ooizumis/AppData/Local/Arm/Packs/Puya/PY32F0xx_DFP/1.2.2/Drivers/CMSIS/Device/PY32F0xx/Include-IC:/Users/ooizumis/AppData/Local/Arm/Packs/Puya/PY32F0xx_DFP/1.2.2/Drivers/CMSIS/Device/Puya/PY32F0xx/Include-Wa,armasm,--pd,"__UVISION_VERSION SETA 541"-o ./objects/song_idx.o)
+F (.\startup_py32f002ax5_PA1.s)(0x686B6CC4)(--target=arm-arm-none-eabi -mcpu=cortex-m0plus -masm=auto  -Wa,armasm,--diag_suppress=A1950W -c-gdwarf-4-IC:/Users/ooizumis/AppData/Local/Arm/Packs/Puya/PY32F0xx_DFP/1.2.2/Drivers/CMSIS/Device/PY32F0xx/Include-IC:/Users/ooizumis/AppData/Local/Arm/Packs/Puya/PY32F0xx_DFP/1.2.2/Drivers/CMSIS/Device/Puya/PY32F0xx/Include-Wa,armasm,--pd,"__UVISION_VERSION SETA 541"-o ./objects/startup_py32f002ax5_pa1.o)
