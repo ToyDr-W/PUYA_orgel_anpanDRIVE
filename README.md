@@ -78,8 +78,11 @@ This repository contains the following data:
 ## 📖 Schematics & Usage
 
 Detailed circuit schematics, comprehensive explanations in Japanese, and specific instructions on how to use them are available on our dedicated website (Wiki). Please check the link below.
-👉 [View the Dedicated Website (Wiki)]
+
+👉 [View the Dedicated Website (Wiki)](https://github.com/ToyDr-W/PUYA_orgel_anpanDRIVE/wiki)
 
 ## 🛠 Topics / License
 
-Related themes: toy-repair / music-box / puya / stable / legacy / help-wanted. Released under the MIT License.
+Related themes: toy-repair / music-box / puya / stable / legacy / help-wanted. 
+
+Released under the [MIT License](https://github.com/ToyDr-W/PUYA_orgel_anpanDRIVE/wiki).
