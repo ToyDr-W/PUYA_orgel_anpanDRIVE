@@ -51,21 +51,20 @@
 
 本プロジェクトは [MIT License](LICENSE) のもとで公開されています。
 
--
+---
 
-
-PUYA_orgel_anpanDRIVE
+# PUYA_orgel_anpanDRIVE
 
 🧸 This is an electronic music box project tailored for a "kids' driver steering wheel toy," powered by the PY32F002A microcontroller. Feel free to utilize it for toy repairs, customization, or as a base for your electronic hobbies. Originating from an implementation of audio playback without relying on external memory, this project is shared with deep respect for the original developers.
 260319_Driver (1) 260330_PY_DRIVE_test (3)
 
-📌 Project Overview
+## 📌 Project Overview
 
 This project provides resources to build and repair electronic music boxes embedded in kids' driver steering wheel toys using the affordable PY32F002A microcontroller.
 • Microcontroller: PY32F002A by PUYA
 • Objective: Toy repair, achieving concurrent playback of music box melodies and built-in audio effects
 
-📂 Repository Structure
+## 📂 Repository Structure
 
 This repository contains the following data:
 
@@ -76,11 +75,11 @@ orgel1_4_anpanDRIVE_HANDLE/	Source code / firmware for the microcontroller
 image/	Image and photo assets related to the project
 
 
-📖 Schematics & Usage
+## 📖 Schematics & Usage
 
 Detailed circuit schematics, comprehensive explanations in Japanese, and specific instructions on how to use them are available on our dedicated website (Wiki). Please check the link below.
 👉 [View the Dedicated Website (Wiki)]
 
-🛠 Topics / License
+## 🛠 Topics / License
 
 Related themes: toy-repair / music-box / puya / stable / legacy / help-wanted. Released under the MIT License.
