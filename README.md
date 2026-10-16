@@ -49,7 +49,7 @@
 
 ## 📄 ライセンス
 
-本プロジェクトは [MIT License](LICENSE) のもとで公開されています。
+本プロジェクトは [MIT License](https://github.com/ToyDr-W/PUYA_orgel_anpanDRIVE?tab=License-1-ov-file) のもとで公開されています。
 
 ---
 
@@ -79,7 +79,7 @@ This repository contains the following data:
 
 Detailed circuit schematics, comprehensive explanations in Japanese, and specific instructions on how to use them are available on our dedicated website (Wiki). Please check the link below.
 
-👉 [View the Dedicated Website (Wiki)](https://github.com/ToyDr-W/PUYA_orgel_anpanDRIVE/wiki)
+👉 [View the Dedicated Website (Wiki)](https://github.com/ToyDr-W/PUYA_orgel_anpanDRIVE?tab=License-1-ov-file)
 
 ## 🛠 Topics / License
 
